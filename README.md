@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aman Sangani</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on [VideoTube-Backed](https://github.com/AmanSangani/yt-backend)
+- 🔭 I’m currently working on [CSR-ConnectHub](https://github.com/AmanSangani/CSR-ConnectHub)
 
-- and learning **React** [React-Practice-Projects](https://github.com/AmanSangani/ReactJs-Practice)
+- Also right now learning **React** [React-Practice-Projects](https://github.com/AmanSangani/ReactJs-Practice)
 
-- 🌱 I’m currently practicing **Node.js** 
+- 🌱 I’m currently practicing **Node.js** on project [VideoTube-Backed](https://github.com/AmanSangani/yt-backend)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmanSangani](https://github.com/AmanSangani)
 
