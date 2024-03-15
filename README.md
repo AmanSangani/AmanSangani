@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **sanganiaman1310@gmail.com**
 
+- 📫 Currently I'm looking for a year long **internship** which I want to convert into a **job**.
+- 
 - 📄 See my Resume [https://drive.google.com/file/d/1bPEYCHGVBIBWB8V8yQ-PirFiB3-eEAdD/view?usp=drive_link](https://drive.google.com/file/d/1bPEYCHGVBIBWB8V8yQ-PirFiB3-eEAdD/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
