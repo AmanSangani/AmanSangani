@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Sangani</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on [Tube-Backed](https://github.com/AmanSangani/yt-backend)
+- 🔭 I’m currently working on [VideoTube-Backed](https://github.com/AmanSangani/yt-backend)
 
 - and learning **React**
 
