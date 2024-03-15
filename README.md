@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CSR-ConnectHub](https://github.com/AmanSangani/CSR-ConnectHub)
 
-- Also right now learning **React** [React-Practice-Projects](https://github.com/AmanSangani/ReactJs-Practice)
+- Also right now I'm learning **React** [React-Practice-Projects](https://github.com/AmanSangani/ReactJs-Practice)
 
 - 🌱 I’m currently practicing **Node.js** on project [VideoTube-Backed](https://github.com/AmanSangani/yt-backend)
 
