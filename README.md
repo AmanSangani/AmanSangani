@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [VideoTube-Backed](https://github.com/AmanSangani/yt-backend)
 
-- and learning **React**
+- and learning **React** [React-Practice-Projects](https://github.com/AmanSangani/ReactJs-Practice)
 
-- And [React-Practice-Projects](https://github.com/AmanSangani/ReactJs-Practice)
-
-- 🌱 I’m currently practicing **Node.js**
+- 🌱 I’m currently practicing **Node.js** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmanSangani](https://github.com/AmanSangani)
 
