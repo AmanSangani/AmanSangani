@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning React <br><br>🌱 I’m currently practicing Php<br><br>👨‍💻 All of my projects are available at https://github.com/AmanSangani<br><br>📫 How to reach me sanganiaman1310@gmail.com<br><br>📫 Currently I'm looking for a internship which I want to convert into a job.<br><br>📄 See my Resume https://drive.google.com/file/d/1bPEYCHGVBIBWB8V8yQ-PirFiB3-eEAdD/view?usp=drive_link
+🔭 I’m currently learning React <br><br>🌱 I’m currently Learning System Design<br><br>👨‍💻 All of my projects are available at https://github.com/AmanSangani<br><br>📫 How to reach me sanganiaman1310@gmail.com<br><br>📫 Currently I'm looking for a internship which I want to convert into a job.<br><br>📄 See my Resume https://drive.google.com/file/d/1bPEYCHGVBIBWB8V8yQ-PirFiB3-eEAdD/view?usp=drive_link
 
 
 ## 🌐 Socials:
