@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning React <br><br>🌱 I’m currently Learning System Design<br><br>👨‍💻 All of my projects are available at https://github.com/AmanSangani<br><br>📫 How to reach me sanganiaman1310@gmail.com<br><br>📫 Currently I'm looking for a internship which I want to convert into a job.<br><br>📄 See my Resume https://drive.google.com/file/d/1bPEYCHGVBIBWB8V8yQ-PirFiB3-eEAdD/view?usp=drive_link
-
+🔭 I’m currently practicing React <br><br>🌱 I’m currently Learning System Design<br><br>👨‍💻 All of my projects are available at https://github.com/AmanSangani<br><br>📫 How to reach me sanganiaman1310@gmail.com<br><br>📫 Currently I'm looking for a internship which I want to convert into a job.<br><br>📄 See my Resume https://drive.google.com/file/d/196pmuqMyNCmogxHY6hIWev10SRQz9dqp/view?usp=drive_link
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sangani-0797452a5/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25010777) 
